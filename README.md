@@ -1,5 +1,7 @@
-### Hi there 👋
+### Hi! 👋 I am Ümit Sarısu.
 
+- 🔭 I’m currently working on Javascript
+- 🌱 I’m currently learning React
 <!--
 **umitsarisu/umitsarisu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
