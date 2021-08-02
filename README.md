@@ -24,6 +24,7 @@
    [youtube]: https://www.youtube.com/channel/UCk7mVBJTS9MNYx5BHSCeo9g
    [instagram]: https://www.instagram.com/umittsarisu/
    [linkedin]: https://www.linkedin.com/in/umitsarisu/
+   <br>
    
    ## Languages and Tools:
    
