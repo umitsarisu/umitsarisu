@@ -8,7 +8,7 @@
     I am trying to improve myself in Front End Web Development. 👀 
 
     - 🔭 I’m currently working on Javascript
-    - 🌱 I’m currently learning React
+    - 🌱 I’m currently learning Vue
     - 💪 My strongest strengths are Html5, CSS3, JavaScript, Bootstrap and Jquery.
 
   ---
